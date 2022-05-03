@@ -33,6 +33,6 @@ Todos os relatórios são exportados em XLSX para análise e conferência.
 </a>
 </div>
 
-<a style="color:black" href="mailto:geovanetadeu97@hotmail.com?subject=[GitHub]%20Source%20Dynamic%20Lists">
+<a style="color:black" href="mailto:geovanetadeu97@hotmail.com?subject=[GitHub]%20App%20Cheques-Devolvidos">
 ✉️ <i>geovanetadeu97@hotmail.com</i>
 </a>
